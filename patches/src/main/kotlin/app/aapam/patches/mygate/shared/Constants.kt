@@ -20,6 +20,10 @@ object Constants {
                 version = "7.38.2",
                 minSdk = 24,
             ),
+            AppTarget(
+                version = "7.39.0",
+                minSdk = 24,
+            ),
         ),
     )
 }

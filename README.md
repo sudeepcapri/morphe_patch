@@ -9,7 +9,7 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.4.0](https://github.com/WZSE/aapam-patches/releases/tag/v1.4.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;16 patches total
+> **[v1.5.0](https://github.com/sudeepcapri/morphe_patch/releases/tag/v1.5.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;16 patches total
 <details open>
 <summary>📦 Telegram&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -53,6 +53,17 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 
 <details open>
 <summary>🎯 7.38.2&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Block Flutter Ads](#block-flutter-ads) | Removes home feed advertisements and sponsored community notice cards. |  |
+| [Unlock Premium Plan](#unlock-premium-plan) | Enables premium resident status and removes promotional banners. |  |
+
+</details>
+
+<details open>
+<summary>🎯 7.39.0&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |

@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/sudeepcapri/morphe_patch/compare/v1.4.0...v1.5.0) (2026-10-18)
+
+### ✨ New Features
+
+* **mygate:** add compatibility versions for MyGate 7.39.0 ([10ddfdc](https://github.com/sudeepcapri/morphe_patch/commit/10ddfdc8e398c3bcbfdf1a1be46e575950abe4a4))
+
 ## [1.4.0](https://github.com/WZSE/aapam-patches/compare/v1.3.1...v1.4.0) (2026-10-10)
 
 ### ✨ New Features

@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "patches": [
     {
       "name": "Anti-disappearing media",
@@ -60,6 +60,13 @@
             },
             {
               "version": "7.38.2",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "7.39.0",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": 24,
@@ -543,6 +550,13 @@
             },
             {
               "version": "7.38.2",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "7.39.0",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": 24,
